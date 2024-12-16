@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master_page.master.cs" Inherits="Bshar.Cars.master_page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            height: 319px;
+        }
+        .auto-style10 {
+            color: #FFFFFF;
+        }
+        .auto-style12 {
+            font-size: x-large;
+        }
+        .auto-style13 {
+            width: 100%;
+        }
+        .auto-style14 {
+            width: 733px;
+            background-color: #000000;
+        }
+        .auto-style15 {
+            color: #FFFFFF;
+            width: 733px;
+            background-color: #000000;
+        }
+        .auto-style16 {
+            text-decoration: underline;
+            background-color: #000000;
+        }
+        </style>
+</head>
+
+<body style="background-color:darkcyan">
+    <form id="form1" runat="server">
+        <div class="auto-style2">
+            <asp:Label ID="Label2" runat="server" BackColor="#0066FF" BorderStyle="Solid" Font-Bold="True" Font-Size="XX-Large" Height="45px" Text="Bashar Luxury Cars" Width="1200px" Font-Italic="True"></asp:Label>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    <br />
+                </p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+            </asp:ContentPlaceHolder>
+             <div id="footer" class="auto-style3" style="background-color:black">
+                 <br />
+                 <br />
+                 <br />
+                 <table class="auto-style13">
+                     <tr>
+                         <td class="auto-style14">
+                             <asp:Button ID="Button1" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Names="Andalus" Height="30px" PostBackUrl="~/MainPages/About.aspx" Text="About us" />
+                             <br />
+                         </td>
+                         <td rowspan="3">
+                             <asp:Image ID="Image1" runat="server" Height="200px" ImageUrl="~/Pictures/mercedes_PNG80172.png" Width="300px" />
+                         </td>
+                     </tr>
+                     <tr>
+                         <td class="auto-style15"><strong>For more information about business in this website, call:</strong><br />
+                             <br />
+                             <span class="auto-style16"><strong>0545850061</strong></span><br />
+                         </td>
+                     </tr>
+                     <tr>
+                         <td class="auto-style14">
+                             <asp:Button ID="Button2" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Names="Andalus" Height="30px" PostBackUrl="~/MainPages/ContactUs.aspx" Text="Contact us" />
+                         </td>
+                     </tr>
+                 </table>
+                 <br />
+                 <br />
+                 <strong>
+                 <em>
+                 <br />
+                 <span class="auto-style10"><span class="auto-style12"><br />
+                 <br />
+                 <br />
+                 <br />
+                 </span></span>
+        </em>
+        </strong>
+        </div>
+    </form>
+</body>
+</html>
