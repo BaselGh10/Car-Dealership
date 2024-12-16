@@ -53,13 +53,13 @@ namespace Bshar.Cars
                     string Num = (string)Session["Number"];
 
                     string sqlstring1 = "Insert into [Sold]([Car Number],[Brand],[Model],[Producing Year],[Color],[Selling Price],[Picture],[Buyer],[Phone]) values ('";
-                    sqlstring1 +=  Num+ "','" + brand + "','" + model + "','" + year + "','" + color + "'," + price + ",'" + pic + "','" +buyer + "','"+phone+"')";
+                    sqlstring1 += Num + "','" + brand + "','" + model + "','" + year + "','" + color + "'," + price + ",'" + pic + "','" + buyer + "','" + phone + "')";
 
-                    DBFunctions.ChangeTable(sqlstring1, "Car_Sale.mdb");
+                    DBFunctions.ChangeTable(sqlstring1, "Car_Sale.mdb", null);
 
                     string sql = "Delete from [Cars] where [Car Number]= '" + Num + "'";
 
-                    DBFunctions.ChangeTable(sql, "Car_Sale.mdb");
+                    DBFunctions.ChangeTable(sql, "Car_Sale.mdb", null);
 
                     Label3.Visible = true;
                     Label4.Visible = false;

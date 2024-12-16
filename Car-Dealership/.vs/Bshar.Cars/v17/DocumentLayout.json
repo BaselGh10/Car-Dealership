@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\car-dealership\\car-dealership\\bshar.cars\\adminpages\\addcar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|solutionrelative:bshar.cars\\adminpages\\addcar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\car-dealership\\car-dealership\\bshar.cars\\webservice\\add-remove.cars-admins.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|solutionrelative:bshar.cars\\webservice\\add-remove.cars-admins.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\car-dealership\\car-dealership\\bshar.cars\\userspages\\changepass.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|solutionrelative:bshar.cars\\userspages\\changepass.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\car-dealership\\car-dealership\\bshar.cars\\userspages\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|solutionrelative:bshar.cars\\userspages\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|c:\\users\\basel\\desktop\\basel_files\\github_reops\\car-dealership\\car-dealership\\bshar.cars\\userspages\\buy.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE544361-4F5F-4BA2-9740-2F9C36E251BF}|Bshar.Cars\\Bshar.Cars.csproj|solutionrelative:bshar.cars\\userspages\\buy.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\AdminPages\\AddCar.aspx.cs",
+              "RelativeDocumentMoniker": "Bshar.Cars\\AdminPages\\AddCar.aspx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\AdminPages\\AddCar.aspx.cs",
+              "RelativeToolTip": "Bshar.Cars\\AdminPages\\AddCar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:14:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add-Remove.Cars-Admins.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\WebService\\Add-Remove.Cars-Admins.asmx.cs",
+              "RelativeDocumentMoniker": "Bshar.Cars\\WebService\\Add-Remove.Cars-Admins.asmx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\WebService\\Add-Remove.Cars-Admins.asmx.cs",
+              "RelativeToolTip": "Bshar.Cars\\WebService\\Add-Remove.Cars-Admins.asmx.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAhwG8AAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:09:58.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePass.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\UsersPages\\ChangePass.aspx.cs",
+              "RelativeDocumentMoniker": "Bshar.Cars\\UsersPages\\ChangePass.aspx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\UsersPages\\ChangePass.aspx.cs",
+              "RelativeToolTip": "Bshar.Cars\\UsersPages\\ChangePass.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:04:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\UsersPages\\Delete.aspx.cs",
+              "RelativeDocumentMoniker": "Bshar.Cars\\UsersPages\\Delete.aspx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\UsersPages\\Delete.aspx.cs",
+              "RelativeToolTip": "Bshar.Cars\\UsersPages\\Delete.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:04:50.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buy.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\UsersPages\\Buy.aspx.cs",
+              "RelativeDocumentMoniker": "Bshar.Cars\\UsersPages\\Buy.aspx.cs",
+              "ToolTip": "C:\\Users\\basel\\Desktop\\Basel_Files\\GitHub_Reops\\Car-Dealership\\Car-Dealership\\Bshar.Cars\\UsersPages\\Buy.aspx.cs",
+              "RelativeToolTip": "Bshar.Cars\\UsersPages\\Buy.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:03:28.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

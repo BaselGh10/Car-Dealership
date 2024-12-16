@@ -14,7 +14,7 @@ namespace Bshar.Cars
         public static void NewPass(string pass,string x)
         {
             string sql = "Update [Users] Set [Password]='" + pass + "' where [User Name] = '" + x + "'";
-            DBFunctions.ChangeTable(sql, "Car_Sale.mdb");
+            DBFunctions.ChangeTable(sql, "Car_Sale.mdb", null);
             
         }
         public static bool ConfirmPass(string Pass, string RePass)

@@ -22,7 +22,7 @@ namespace Bshar.Cars
 
             string sql = "Delete from [Users] where [User Name]= '" + Name + "'";
 
-            DBFunctions.ChangeTable(sql, "Car_Sale.mdb");
+            DBFunctions.ChangeTable(sql, "Car_Sale.mdb", null);
 
             Response.Redirect("~/MainPages/SignIn.aspx");
         }
